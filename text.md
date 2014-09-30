@@ -1,3 +1,5 @@
+For photos: http://www.meh.ro/wp-content/uploads/2010/08/meh.ro4999.jpg
+
 Bacon ipsum dolor sit amet beef drumstick bresaola t-bone
 fatback pancetta kielbasa jerky. Corned beef strip steak
 pancetta shankle brisket spare ribs. Meatball pork belly
