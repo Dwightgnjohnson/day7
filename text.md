@@ -1,5 +1,3 @@
-For photos: http://www.meh.ro/wp-content/uploads/2010/08/meh.ro4999.jpg
-
 YUMM
 
 Bacon ipsum dolor sit amet beef drumstick bresaola t-bone
