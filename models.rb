@@ -4,7 +4,7 @@ class Vehicle
     @speed = 20
   end
 
-  def break
+  def brake
     @speed = 0
   end
 

@@ -4,32 +4,30 @@
 
 
 
-module Animal
+class Animal
   def eat
-    puts "I eat fish!"
+    puts "I, The #{self.class}, eat fish!"
   end
 end
 
-class Panda
-  include Animal
+class Panda < Animal
 
-  @@logs = [] #setting up empty array for logs
+end
 
-  def self.log(event)
-    @@logs << event
-  end
+class Shark < Animal
 
-  def self.logs
-    @@logs
+end
+
+class Log
+  @@logs = []
+
+  def self.log
+    @@logs << "Panda Ate"
+    p @@logs
   end
 end
 
-class Shark
-  include Animal
-end
+shark23 = Shark.new #new shark object
+shark23.eat
 
-# shark23 = Shark.new #new shark object
-# shark23.eat object eat method from Animal module
-
-Panda.log "Panda ate fish"
-puts Panda.logs
+Log.log
