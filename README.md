@@ -18,4 +18,4 @@ Log.log
 ```
 
 Data Modeling 2:
-* Do the same excercise, but with Modules instead of inheritance
+* Do the same excecise, but with Modules instead of inheritance
