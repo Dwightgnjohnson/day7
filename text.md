@@ -14,3 +14,5 @@ jowl sirloin.
 Turducken drumstick ham hock brisket pork meatloaf tongue,
 short loin boudin meatball kielbasa jowl bacon landjaeger
 t-bone.
+
+By JWo. 2014.
