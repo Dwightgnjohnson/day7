@@ -1,5 +1,3 @@
-For photos: http://www.meh.ro/wp-content/uploads/2010/08/meh.ro4999.jpg
-
 YUMM
 
 Bacon ipsum dolor sit amet beef drumstick bresaola t-bone
@@ -16,3 +14,5 @@ jowl sirloin.
 Turducken drumstick ham hock brisket pork meatloaf tongue,
 short loin boudin meatball kielbasa jowl bacon landjaeger
 t-bone.
+
+By JWo. 2014.
