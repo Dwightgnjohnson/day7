@@ -10,3 +10,7 @@ round tongue leberkas, jowl capicola tri-tip prosciutto
 sausage fatback. Boudin sausage pork belly frankfurter.
 Pastrami ham pancetta, beef t-bone shankle bacon flank
 jowl sirloin.
+
+Turducken drumstick ham hock brisket pork meatloaf tongue,
+short loin boudin meatball kielbasa jowl bacon landjaeger
+t-bone.
