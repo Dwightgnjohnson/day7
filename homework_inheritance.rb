@@ -12,6 +12,15 @@ class Animal
 end
 
 class Panda < Animal
+  @@logs = [] #setting up empty array for logs
+
+  def self.log(event)
+    @@logs << event
+  end
+
+  def self.logs
+    @@logs
+  end
 
 end
 
@@ -19,9 +28,11 @@ class Shark < Animal
 
 end
 
+# shark1 = Shark.new
+# shark1.eat
+#
+# panda1000 = Panda.new
+# panda1000.eat
 
-shark1 = Shark.new
-shark1.eat
-
-panda1000 = Panda.new
-panda1000.eat
+Panda.log "panda ate"
+puts Panda.logs
